@@ -1,8 +1,6 @@
 # azure-ia-linguagem-e-fala
+
 Projeto DIO com práticas em Azure Speech Studio e Language Studio
-
-Perfeito, Ricardo! Aqui está um modelo completo de `README.md` para você usar no GitHub e entregar seu projeto com estilo e profissionalismo. Ele apresenta o propósito do desafio, as ferramentas utilizadas, os aprendizados e a estrutura do repositório.
-
 ---
 
 ## 🧠 Azure IA: Linguagem e Fala com Speech Studio e Language Studio
